@@ -1,6 +1,6 @@
 package com.developer
 
-object mumbling extends App {
+object Mumbling extends App {
 
   /*
 This time no story, no theory. The examples below show you how to write function accum:
